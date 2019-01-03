@@ -5,6 +5,8 @@ description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/headers/header-cv.jpg
 ---
 
+![](/images/headers/header-cv.jpg)
+
 For more than 15 years, I have been honing my skills in the fields of operations, digitalization, cost reduction and project management within a variety of technical and strategic projects. This experience has been developed in various industries including automotive, aerospace and military.
 
 Quite often strategies aren’t effectively implemented, as the disconnect between high level vision and operational reality are never truly closed. I enjoy nothing more than finding clever, pragmatic solutions to these complex problems.
