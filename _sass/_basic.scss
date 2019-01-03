@@ -44,7 +44,7 @@ h1, .h1 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h1-large;
+		font-size: $h1-medium-medium;
 	}
 }
 
@@ -60,7 +60,7 @@ h2, .h2 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h2-large;
+		font-size: $h2-medium;
 	}
 }
 
@@ -76,7 +76,7 @@ h3, .h3 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h3-large;
+		font-size: $h3-medium;
 	}
 }
 
@@ -92,7 +92,7 @@ h4, .h4 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h4-large;
+		font-size: $h4-medium;
 	}
 }
 
@@ -108,7 +108,7 @@ h5, .h5 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h5-large;
+		font-size: $h5-medium;
 	}
 }
 
@@ -124,7 +124,7 @@ h6, .h6 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h6-large;
+		font-size: $h6-medium;
 	}
 }
 
@@ -140,7 +140,7 @@ p, ul, ol {
 	}
 
 	@include mq(laptop) {
-		font-size: $p-large;
+		font-size: $p-medium;
 	}
 
 	strong {
@@ -174,7 +174,7 @@ blockquote {
 	@include mq(laptop) {
 		border-left-width: 4px;
 		padding: 20px 0 20px 40px;
-		font-size: $blockquote-large;
+		font-size: $blockquote-medium;
 	}
 
 	p {
@@ -188,7 +188,7 @@ blockquote {
 		}
 
 		@include mq(laptop) {
-			font-size: $blockquote-large;
+			font-size: $blockquote-medium;
 		}
 	}
 }
@@ -246,7 +246,7 @@ a {
 	}
 }
 
-.button--large {
+.button--medium {
 	padding: 15px 20px 16px;
 	font-size: 13px;
 
@@ -358,7 +358,7 @@ section {
 	margin-top: 15px;
 
 	@include mq(tabletp) {
-		margin-top: 15px;
+		margin-top: 25px;
 	}
 
 	@include mq(tabletl) {
