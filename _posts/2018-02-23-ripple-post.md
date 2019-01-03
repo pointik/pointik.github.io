@@ -11,8 +11,7 @@ tags:
 - bubble
 - DLT
 - currency
-categories:
-- digital
+categories: digital
 comments: true
 featured_image: "/images/posts/2018/ripple.jpg"
 ---
