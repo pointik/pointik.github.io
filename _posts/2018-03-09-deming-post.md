@@ -1,6 +1,6 @@
 ---
 title: Without Data
-date: 2018-03-09 00:00:00 +0000
+date: 2018-03-09
 description: Quote from Edward Deming.
 tags:
 - business
