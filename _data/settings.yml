@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Duet
+  site_title: Clint Bird
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/logo.gif
+  logo_image: /images/logo.png
   logo_width: 35
 
 menu_settings:
@@ -33,9 +33,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'http://instagram.com'
+  facebook_url: ''
+  twitter_url: ''
+  instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -46,19 +46,20 @@ social_settings:
   amazon_url: ''
   apple_url: ''
   android_url: ''
-  tumblr_url: 'http://tumblr.com'
-  dribbble_url: 'http://dribbble.com'
+  rss_url: 'https://www.clintbird.com/feed.xml'
+  lastfm_url: 'http://lastfm.com/user/clintjb'
+  mail_url: 'mailto:me@clintbird.com'
   behance_url: ''
   deviantart_url: ''
   github_url: ''
   reddit_url: ''
   flickr_url: ''
-  etsy_url: ''
+  github_url: 'https://github.com/clintjb'
   kickstarter_url: ''
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://linkedin.com/in/clintjb'
 
 color_settings:
   background_color: '#ffffff'
@@ -66,9 +67,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#346068'
   border_color: '#dddddd'
-  overlay_background_color: '#F2784B'
+  overlay_background_color: '#346068'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
