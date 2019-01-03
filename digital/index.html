@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 title: Blog
 description: Duet includes a simple blog with pagination.
 featured_image: /images/social.jpg
@@ -20,7 +20,7 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap blog-wrap">
 
-		{% for post in paginator.posts %}
+		{% for post in site.tags.digital %}
 
 		<article class="blog-post">
 
