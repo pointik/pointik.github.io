@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Blog
-description: Duet includes a simple blog with pagination.
+title: Digitalization
+description: A list of posts realted to digitalization and other data related topics.
+tag: "digital"
 featured_image: /images/posts/2018/ripple.jpg
 ---
 
@@ -19,7 +20,7 @@ featured_image: /images/posts/2018/ripple.jpg
 <section class="blog">
 
 	<div class="content-wrap blog-wrap">
-    	{% for post in site.tags[digital] %} 
+    	{% for post in site.tags[page.tag] %} 
 		{% for post in paginator.posts %}
 
 		<article class="blog-post">
