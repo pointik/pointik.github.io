@@ -1,6 +1,6 @@
 ---
 title: Cryptocurrencies
-date: 2018-02-23 00:00:00 +0000
+date: 2018-02-23
 description: My view on the future of crypto and why I'll HODL on XRP.
 tags:
 - digital
@@ -11,12 +11,10 @@ tags:
 - bubble
 - DLT
 - currency
-comments: true
-featured_image: "/images/posts/2018/ripple.jpg"
 categories:
 - digital
-- ripple
-
+comments: true
+featured_image: "/images/posts/2018/ripple.jpg"
 ---
 ![](/images/posts/2018/ripple.jpg)
 
