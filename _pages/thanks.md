@@ -1,10 +1,10 @@
 ---
-title: Thank you
+title: Thanks!
 subtitle: Your message was sent successfully.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+description: 30 something year old digital / lean enthusiast and aspiring chef. 15+ years experience in operations, digitalization, cost reduction and project management.
+featured_image: /images/headers/header-thanks.jpg
 ---
 
-![](/images/demo/about.jpg)
+![](/images/headers/header-thanks.jpg)
 
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+Leo says you're awesome! I appreciate you taking the time to contact me - I will get back to you shortly - Thanks.
