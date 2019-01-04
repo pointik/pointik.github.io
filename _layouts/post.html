@@ -7,8 +7,11 @@ layout: default
 	<div class="wrap">
 
 		<h1>{{ page.title }}</h1>
-		<p>{{ page.date | date_to_long_string }} | {% include read-time.html %}<i class="fa fa-clock"></i></p>
-		
+		<p>{{ page.date | date_to_long_string }} | {% include read-time.html %}<i class="fa fa-fw fa-clock-o"></i></p>
+		<p>{{ page.date | date_to_long_string }} | {% include read-time.html %}<i class="far fa-clock"></i></p>
+		<p>{{ page.date | date_to_long_string }} | {% include read-time.html %}<i class="fa fa-fw fa-clock"></i></p>
+		<p>{{ page.date | date_to_long_string }} | {% include read-time.html %}<i class="fa fa-fw fa-hourglass-o"></i></p>
+
 	</div>
 
 </section>
