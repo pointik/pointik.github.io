@@ -1,20 +1,13 @@
 ---
-title: Cryptocurrencies
+title: 'Cryptocurrencies'
 date: 2018-02-23
 description: My view on the future of crypto and why I'll HODL on XRP.
-tags:
-- digital
-- ripple
-- XRP
-- crypto
-- bitcoin
-- bubble
-- DLT
-- currency
-categories: digital
+tags: [digitalization, ripple, XRP, crypto, bitcoin, bubble, DLT, currency]
+categories: digitalization
 comments: true
-featured_image: "/images/posts/2018/ripple.jpg"
+featured_image: '/images/posts/2018/ripple.jpg'
 ---
+
 ![](/images/posts/2018/ripple.jpg)
 
 This is simply my "current" personal view on Ripple and cryptocurrencies in general - I genuinely believe cryptocurrency is this era's ".com" - We have over 1400 coins, most presenting a solution, looking for a problem. The majority are largely variations or forks and extremely similar to one another with little to no differentiation. Many are simply just in it riding the hysteria and noise, but largely have empty promises or quite literally aim to do nothing (aka Dogecoin) 
