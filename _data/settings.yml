@@ -13,13 +13,13 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Business'
-      url: '/business'
+      url: '/business/'
     - title: 'Digitalization'
-      url: '/digitalization'
+      url: '/digitalization/'
     - title: 'Cooking'
-      url: '/cooking'
+      url: '/cooking/'
     - title: 'Stuff'
-      url: '/stuff'
+      url: '/stuff/'
 
 footer_settings:
   logo_image: 
