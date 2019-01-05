@@ -26,7 +26,7 @@ We wanted to bring the novelty of exploration to the end user, but with their st
 
 Our uniqueness was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong novelty factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
 
-<iframe src="https://player.vimeo.com/video/141699064" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/141699064?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 So with all that said - what went wrong? After looking through it, I think it was a combination of things. A lot of these may seem obvious, but when your passionate and deeply invested in something, sometimes you miss them or even choose to subconsciously ignore them. I would summarise them as follows:
 
