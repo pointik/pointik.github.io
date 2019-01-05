@@ -18,20 +18,16 @@ Let's start from the beginning - Weave was a web app where people shared truly s
 
 Users paid a small price to add a thread (post) to Weave. The idea was that firstly, this would address our business model, and secondly also ensure higher level content was posted while giving an element of value/exclusivity if someone posted something. "Threads” were a post which was colored based on its emotional quality and contained a small message / story, title, icon and uploaded image which allowed users to share meaningful moments and messages with the world. An algorithm was behind the interface detecting correlations from the meta data and connecting peoples threads that shared underlying similarities. 
 
-<figure>
-	<img src="/images/posts/2018/weave-2.jpg">
-</figure>
+![](/images/posts/2018/weave-2.jpg)
 
 We wanted to bring the novelty of exploration to the end user, but with their story always at the center. People today search for content or drill down in folder like structures; Weave was designed to find underlying links and allow people to explore content via a graphical interface that is more organic than hierarchical (to the extent there was no search box!) We really wanted to reproduce that feeling of randomly walking in a new city and stumbling upon something you were never looking for.
 
-<figure>
-	<img src="/images/posts/2018/weave-3.jpg">
-</figure>
+![](/images/posts/2018/weave-3.jpg)
 
 Our uniqueness was that we were the first to market with an interface that's totally different to current platforms. This interface would serve as a strong novelty factor and by ensuring higher quality content people would enjoy exploring through in short bursts. By nature, the platform was designed for short term interaction/entertainment - perfectly suited to 15-25 year olds.
-<br>
-<iframe src="https://player.vimeo.com/video/141699064?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<br>
+
+<iframe src="https://player.vimeo.com/video/141699064" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 So with all that said - what went wrong? After looking through it, I think it was a combination of things. A lot of these may seem obvious, but when your passionate and deeply invested in something, sometimes you miss them or even choose to subconsciously ignore them. I would summarise them as follows:
 
 #### Listen To The People That Pay
