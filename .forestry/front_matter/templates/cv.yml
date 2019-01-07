@@ -1,0 +1,20 @@
+---
+label: CV
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  label: Positions
+  name: positions
+- type: field_group
+  label: Experience
+  name: experience
+- type: tag_list
+  name: tags
+  label: tags
+- type: textarea
+  name: area
+  label: area
+- type: text
+  name: text
+  label: text
