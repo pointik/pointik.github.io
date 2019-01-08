@@ -49,12 +49,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 6
+paginate: 9
 paginate_path: "/blog/page:num/"
 
 gallery_types:
   carousel: Carousel
   grid: Grid
 grid_columns:
+  two: Two
   three: Three
+  four: Four
   
