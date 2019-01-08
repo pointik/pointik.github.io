@@ -10,7 +10,8 @@ featured_image: '/images/posts/2016/sessions-feature.jpg'
 
 This was an article featured in DRAFT Magazine which you can find [here](http://draftmag.com/science-session-abv-processing/). 
 
-As someone who enjoys a quiet beer here and there, its a simple and interesting explanation on the exponential effects alcohol percentage has in a drinking session.   
+As someone who enjoys a quiet beer here and there, its a simple and interesting explanation on the exponential effects alcohol percentage has in a drinking session.
+
 ---
 
 We begin with a quiz:
