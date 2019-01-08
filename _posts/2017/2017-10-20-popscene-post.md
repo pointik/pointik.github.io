@@ -8,6 +8,6 @@ comments: true
 featured_image: '/images/posts/2017/popscene-feature.jpg'
 ---
 
-![](/images/posts/2017/popscene.jpg)
-
 Don't know where I found this one, but its certainly fun to look over and spot all the little happenings and whatnot.
+
+![](/images/posts/2017/popscene.jpg)

@@ -8,6 +8,6 @@ comments: true
 featured_image: '/images/posts/2017/bacon-feature.jpg'
 ---
 
-![](/images/posts/2017/bacon.jpg)
-
 Love it!
+
+![](/images/posts/2017/bacon.jpg)

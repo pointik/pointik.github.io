@@ -5,7 +5,7 @@ description: Some fun, random animated gifs I’ve stumbled across....
 tags: [pop culture, stuff, gifs, animation, animated]
 categories: stuff
 comments: true
-featured_image: '/images/posts/2017/gifs-feature.gif'
+featured_image: '/images/posts/2017/gifs-feature.jpg'
 ---
 
 ![](/images/posts/2017/gifs-1.gif)
