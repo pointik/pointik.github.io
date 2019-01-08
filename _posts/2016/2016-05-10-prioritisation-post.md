@@ -38,22 +38,22 @@ The principle here is simple: Your calendar never lies. You can't say one thing 
 
 Here are four ways to get started.
 
-* Practice Being Present
+#### Practice Being Present
 
 "If you feel some inner angst, pay attention to that feeling, and let it motivate you to make some important changes."
 Author and activist Parker Palmer has written, "Before I can tell my life what I want to do with it, I must listen to my life telling me who I am." The next time you rush off to another meeting or run in apologizing for arriving late at another parent-teacher conference, ask yourself, "Is this who I really am? Is this who I want to be?" If you feel some inner angst, pay attention to that feeling, and let it motivate you to make some important changes.
 
-* Design Your Ideal Week
+#### Design Your Ideal Week
 
 I learned this tip from my friend Michael Hyatt, who advocates that your calendar should not be something that stresses you out when you look at it. Each new day should be an exciting adventure. If it's not, then change it. To quote Greg McKeown, "If you don't prioritize your life, someone else will."
 To start reshaping your schedule, don't shoot for minuscule changes—map out an ideal week, even if it seems farfetched at first. Before you can know what changes to make, it's important to know why and where you want them to take you.
 
-* Don't Go It Alone
+#### Don't Go It Alone
 
 Get some accountability. Ask a friend, spouse, or coworker to help you create some boundaries that honor your values, relationships, and commitment. When you cross those boundaries, there needs to be a consequence, even if it's just this friend asking you, "Are you sure you want to do that?" These kinds of reminders can give us space to pause and reflect on our intentions.
 That may seem small, but it's often enough; too many of our decisions are made half-consciously or unconsciously, and before we know it, they're established routines. It's easy to forget that every action has a consequence—but it's pretty easy, too, to remind yourself of that.
 
-* Consider Your Calling
+#### Consider Your Calling
 
 When you're in the throes of a busy, stressful day, ask yourself, "Is this really what I'm meant to do?" Granted, every job has its drawbacks. But if you're going weeks and months doing things out of sheer obligation, then it may be time to consider a change.
 "If you're going weeks and months doing things out of sheer obligation, then it may be time to consider a change."
