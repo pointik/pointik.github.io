@@ -5,7 +5,7 @@ description: Famous film scenes in some classic 486 inspired styles.
 tags: [stuff, pop culture, scumm, film, Gustavo Viselner, star wars, pixels]
 categories: stuff
 comments: true
-featured_image: '/images/posts/2016/pixels-feature.jpg'
+featured_image: '/images/posts/2016/pixels-feature.png'
 ---
 
 I stumbled across this on Dribbble and it immediatly reminded me of my younger years playing SCUMM adventure games. So being a fan of the films and SCUMM it was an obvious choice to post here. 
