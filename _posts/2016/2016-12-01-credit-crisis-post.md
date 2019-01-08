@@ -20,4 +20,4 @@ Secondly, when the aura of mystery is stripped away from this system of financia
 
 In retrospect, the only thing that is more striking than the scale of last decade’s credit bubble is the fact that the madness went on so long–unnoticed. Or to put it another way, if more people such as Jarvis had produced videos like this a decade ago, with chirpy green screens and laughable stick-figure bankers, the public might never have turned such a blind eye to finance–and let the bubble swell to such a monstrous size.
 
-<iframe src="https://player.vimeo.com/video/3261363autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/3261363?autoplay=0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
