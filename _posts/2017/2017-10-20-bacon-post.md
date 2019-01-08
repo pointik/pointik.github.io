@@ -7,7 +7,5 @@ categories: stuff
 comments: true
 featured_image: '/images/posts/2017/bacon-feature.jpg'
 ---
-
 Love it!
-
 ![](/images/posts/2017/bacon.jpg)
