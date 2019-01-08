@@ -1,8 +1,8 @@
 ---
 title: 'Thinking Outside The Blocks'
 date: 2016-12-18
-description: Some insights for anyone involved in cost convergence or DtX in general.
-tags: [business, bitcoin, blockchain, strategy, IoT, economics, tokens, digitalization]
+description: A strategic perspective on blockchain, tokens and where we go from here.
+tags: [business, bitcoin, blockchain, strategy, IoT, economics, tokens, digitalization, crypto]
 categories: [business, digitalization]
 comments: true
 featured_image: '/images/posts/2016/blockchain-feature.jpg'
