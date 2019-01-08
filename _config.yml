@@ -56,7 +56,5 @@ gallery_types:
   carousel: Carousel
   grid: Grid
 grid_columns:
-  two: Two
   three: Three
-  four: Four
   
