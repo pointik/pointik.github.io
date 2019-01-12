@@ -13,7 +13,7 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](https://www.clintbird.com/mba)
 
-#### Technical Skills
+### Technical Skills
 * Data Analytics & Algorithms
 * Operations & Systems Analysis
 * LEAN Methods
@@ -21,13 +21,13 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 * Design To Cost & Value Engineering
 * Financial Analysis & Forecasting
 
-#### Business Skills
+## Business Skills
 * Strong Digital Literacy
 * Strategical
 * Analytical / Critical Thinker
 * Entrepreneurial
 
-#### Business Skills
+# Business Skills
     - Strong Digital Literacy
     - Strategical
     - Analytical / Critical Thinker
