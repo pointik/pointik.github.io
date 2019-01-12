@@ -2,6 +2,7 @@
 title: MBA
 subtitle: For more than 15 years, I have been honing my skills in the fields of operations, digitalization, cost reduction and project management within a variety of technical and strategic projects. This experience has been developed in various industries including automotive, aerospace and military.
 description: An online MBA developed entirely out of MOOCs from some of the worlds top business programmes.CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction, digital, transformation, python, digitalization, big data, algorithms]
+toc: true
 featured_image: /images/headers/header-cv.jpg
 ---
 
