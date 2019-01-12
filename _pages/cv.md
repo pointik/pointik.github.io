@@ -12,7 +12,7 @@ Quite often strategies aren’t effectively implemented, as the disconnect betwe
 
 I genuinely believe that via truly understanding the impacts and drivers at the operational level, strong digitalized processes and automation can be developed to reduce waste and the drudgery in employees work. It enables the employees to do the things they do best, and help deliver value as an organisation.
 
-I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](https://www.clintbird.com/mba)
+I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](/mba.html)
 
 #### Technical Skills
 * Data Analytics & Algorithms
