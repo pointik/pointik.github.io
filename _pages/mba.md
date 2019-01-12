@@ -1,14 +1,12 @@
 ---
 title: MBA
 subtitle: For more than 15 years, I have been honing my skills in the fields of operations, digitalization, cost reduction and project management within a variety of technical and strategic projects. This experience has been developed in various industries including automotive, aerospace and military.
-description: An online MBA developed entirely out of MOOCs from some of the worlds top business programmes.CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction, digital, transformation, python, digitalization, big data, algorithms]
-toc: true
-featured_image: /images/headers/header-cv.jpg
+description: An online MBA developed entirely out of MOOCs from some of the worlds top business programmes
+tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction, digital, transformation, python, digitalization, big data, algorithms]
+featured_image: /images/headers/header-mba.jpg
 ---
 
-![](/images/headers/header-cv.jpg)
-
-{% include toc.html %}
+![](/images/headers/header-mba.jpg)
 
 ## Overview
 As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos becomes quite ingrained. Challenging the 100% solution to find the best "bang for the buck" is part of my role and what I do on an allmost daily basis. 
@@ -36,7 +34,7 @@ I have a reasonable distance to travel to work so generally allocated one hour p
 ---
 
 ## Accounting
-![Wharton](/images/mba/wharton.jpg){: style="float:right"}
+![Wharton](/images/mba/wharton.jpg){: style="float:left"}
 **Financial Accounting (Wharton University)**
 
 Master the technical skills needed to analyze financial statements and disclosures for use in financial analysis, and learn how accounting standards and managerial incentives affect the financial reporting process. By the end of this course, you’ll be able to read the three most common financial statements: the income statement, balance sheet, and statement of cash flows.
@@ -51,31 +49,18 @@ This course will be broken up into 4 modules covering the following topics:
 * Ratio Analysis
 
 [Transcript & Final Grade - 82.0%](/files/Accounting.pdf)
-{:.notice}
 
 ---
 
 ## Business Strategy
+
 ![Darden](/images/mba/virginia.jpg){: style="float:right"}
-**Foundations of Business Strategy (Darden School Of Business)**
+
+#### Foundations of Business Strategy (Darden School Of Business)
 
 In this course, we will explore the underlying theory and frameworks that provide the foundations of a successful business strategy. We will develop your ability to think strategically by providing you the tools for conducting a strategic analysis. Strategic analysis is critical for analyzing the competitive context in which an organization operates and for making reasoned and reasonable recommendations for how that organization should position itself and what actions it should take to maximize value creation. Aspiring managers, entrepreneurs, social entrepreneurs, analysts, and consultants all may find value in mastering these fundamentals.
 
-**About The Course**
-
-The course is broken up into six modules:
-
-* Introduction to Strategic Analysis
-* Analyzing Industry Structure
-* Analyzing Firm Capabilities
-* Analyzing Competitive Dynamics
-* Determining Competitive Positioning
-* Determining Firm Scope
-
-As the final project deliverable you are asked to prepare and submit a final written strategic analysis of your chosen organization. The purpose of your analysis is to assess the current competitive position of the firm and to make recommendations on how to improve that position. The audience for this report is the CEO or President of the organization you are analyzing. Thus, there is no need to discuss in depth the organization’s history, its business, or other facts that the CEO is already quite familiar with unless you need to communicate those things in order to make a point. To begin, briefly identify the industry of the firm you are analyzing. Discuss the strategic groups that constitute the industry and identify major competitors within each strategic group. Who are the major competitors in the industry? How do they compete? Has the industry structure changed? For example, have barriers to entry become less significant, and if so, why? What is the nature of competitive rivalry in the industry? Your analysis should consider the effect of each of the five competitive forces in the firm’s industry. In addition, analyze how factors in the general environment have been affecting this industry. You may limit your analysis to those factors that are most relevant to your industry. You must explain, though, why certain factors are more relevant than others. Decide which factors are most relevant to your industry, and focus on those. How have these factors influenced any or all of the five competitive forces you analyze? Analyze the firm’s capabilities. Are they distinctive, and difficult to imitate? Do they create a competitive advantage? To what extent is this competitive advantage sustainable? Are the firm’s capabilities a good ‘fit’ with the insights revealed from your analysis of the industry’s five forces, the changing business environment, and the position of the firm’s competitors? Why or why not? Use your analyses to identify the current competitive position of the focal organization. How desirable and sustainable is that competitive position? Based upon your analysis, characterize the overall attractiveness of the organization’s competitive position within the industry. As much as possible, please provide data to back up your points. Use the resources available to you to help support your analytical insights.
-
 [Transcript & Final Grade - 85.0%](/files/Strategy.pdf)
-{:.notice}
 
 ---
 
