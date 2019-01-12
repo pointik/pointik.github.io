@@ -8,6 +8,8 @@ featured_image: /images/headers/header-cv.jpg
 
 ![](/images/headers/header-cv.jpg)
 
+{% include toc.html %}
+
 ## Overview
 As someone who has spent their professional life devoted to reducing costs out of operations; a cost-conscious ethos becomes quite ingrained. Challenging the 100% solution to find the best "bang for the buck" is part of my role and what I do on an allmost daily basis. 
 
