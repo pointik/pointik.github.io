@@ -32,10 +32,9 @@ Most information I found had suggested somewhere between 8-12 hours per week per
 I have a reasonable distance to travel to work so generally allocated one hour per work day to study during transit on my tablet. All in all, it was a 2.5 year effort; but the flexibility this way of working gave really allowed me to manage it well within my schedule. The quality of the courses was phenomenal and I would highly recommend to all. If you have any questions or would like to know more from my experience on the topic, please drop me a line.
 
 ---
-
-## Accounting
 ![Wharton](/images/mba/wharton.jpg){: style="float:left"}
-**Financial Accounting (Wharton University)**
+
+#### Financial Accounting (Wharton University)
 
 Master the technical skills needed to analyze financial statements and disclosures for use in financial analysis, and learn how accounting standards and managerial incentives affect the financial reporting process. By the end of this course, you’ll be able to read the three most common financial statements: the income statement, balance sheet, and statement of cash flows.
 
@@ -51,9 +50,6 @@ This course will be broken up into 4 modules covering the following topics:
 [Transcript & Final Grade - 82.0%](/files/Accounting.pdf)
 
 ---
-
-## Business Strategy
-
 ![Darden](/images/mba/virginia.jpg){: style="float:right"}
 
 #### Foundations of Business Strategy (Darden School Of Business)
