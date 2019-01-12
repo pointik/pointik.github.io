@@ -2,6 +2,7 @@
 title: CV
 subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
 description: Duet is a beautiful Jekyll portfolio theme.
+tags: [CV, clint, bird, hamburg, germany, dtc, airbus, operations, mba, cost, reduction, digital, transformation, python, digitalization, big data, algorithms]
 featured_image: /images/headers/header-cv.jpg
 ---
 
@@ -15,24 +16,25 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](https://www.clintbird.com/mba)
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+##### Technical Skills
+* Data Analytics & Algorithms
+* Operations & Systems Analysis
+* LEAN Methods
+* Project Management (PRINCE2 & Airbus Bronze)
+* Design To Cost & Value Engineering
+* Financial Analysis & Forecasting
 
-## Get Duet
+##### Business Skills
+* Strong Digital Literacy
+* Strategical
+* Analytical / Critical Thinker
+* Entrepreneurial
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
+##### Tools & Applications
+* MS Office, Access & Projects
+* Sharepoint Design & Development
+* Python
+* VB & HTML Scripting
+* Adobe Design Suite
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
