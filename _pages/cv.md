@@ -20,6 +20,50 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 | LEAN Methods    				| Project Management (PRINCE2 & Airbus Bronze) 	|
 | Design To Cost & Value Engineering    | Financial Analysis & Forecasting 	|
 
+
+</i>Programming Skills</h3>
+      <ul>
+        <li data-percent="95"><span>HTML5</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="90"><span>CSS3 & SCSS</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="60"><span>JavaScript</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="50"><span>jQuery</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="40"><span>JSON</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="55"><span>PHP</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+        <li data-percent="40"><span>MySQL</span>
+          <div class="skills-bar">
+            <div class="bar"></div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="skills-soft">
+      <h3><i class="fas fa-bezier-curve">
+      	
+
 ##### Technical Skills
 * Data Analytics & Algorithms
 * Operations & Systems Analysis
