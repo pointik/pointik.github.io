@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'CV'
-      url: '/'
+      url: '/cv.html'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Business'
