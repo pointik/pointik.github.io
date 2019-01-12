@@ -14,6 +14,12 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](https://www.clintbird.com/mba)
 
+| Technical Skills     			|								|
+|-------------------------------|-------------------------------|
+| Data Analytics & Algorithms   | Operations & Systems Analysis	|
+| LEAN Methods    				| Project Management (PRINCE2 & Airbus Bronze) 	|
+| Design To Cost & Value Engineering    | Financial Analysis & Forecasting 	|
+
 ##### Technical Skills
 * Data Analytics & Algorithms
 * Operations & Systems Analysis
