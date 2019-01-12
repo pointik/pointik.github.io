@@ -6,7 +6,11 @@ tags: [clint bird, clint, bird, hamburg, germany, australia, airbus, entrepreneu
 featured_image: /images/headers/header-home.jpg
 ---
 
-Hi I'm Clint,
+<section class="intro">
+
+	<div class="wrap">
+
+		<p>Hi I'm Clint,
 
 A 30 something year old father, husband, lean, digital enthusiast and aspiring chef! I'm originally from Australia, but due to some of life's unforeseen adventures am now happily settled in Hamburg Germany.
 
@@ -16,12 +20,39 @@ In my spare time ~~I'm also~~ *I was* also the co-founder of the ~~social~~ *fai
 
 Be it mastering a new recipe in the kitchen or driving business improvements - Adding to an efficient, valued end product is where my true passion lies. I've set this blog up to act mainly just as a repository of stuff I find interesting - hopefully, others find it the same as well. If you would like to connect with me, share a story or just have a chat about anything, then feel free to have a look around and get in touch.
 
-Cheers,
-<figure>
-	<img src="/images/signature.png">
-</figure>
-
-	<div class="wrap">
-		<p><img src="/images/signature.png"></p>
+Cheers,</p>
 
 	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
