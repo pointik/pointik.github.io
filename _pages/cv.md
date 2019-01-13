@@ -29,7 +29,7 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 * Entrepreneurial
 
 #### Tools & Applications
-* MS Office, Access & Projects <i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-half-o"></i>
+* MS Office, Access & Projects <i class="fas fa-circle"></i><i class="fas fa-circle-notch"></i><i class="fas fa-adjust"></i><i class="fa fa-star-half-o"></i>
 * Sharepoint Design & Development
 * Python & HTML Scripting
 * Adobe Design Suite
