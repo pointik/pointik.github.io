@@ -35,8 +35,8 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 * Adobe Design Suite
 
 <div class="graph-cont"></div>
-<div class="bar bar1">60%</div>
-<div class="bar bar1">70%</div>
-<div class="bar bar1">80%</div>
+<div class="bar bar60">MS Office, Access & Projects</div>
+<div class="bar bar80">Python HTML Scripting</div>
+<div class="bar bar95">Adobe Design Suite</div>
 
 <a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
