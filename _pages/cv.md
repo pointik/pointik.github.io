@@ -14,44 +14,23 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](/mba.html)
 
-#### Technical Skills
-* Data Analytics & Algorithms
-* Operations & Systems Analysis
-* LEAN Methods
-* Project Management (PRINCE2 & Airbus Bronze)
-* Design To Cost & Value Engineering
-* Financial Analysis & Forecasting
-
-#### Business Skills
-* Strong Digital Literacy
-* Strategical
-* Analytical / Critical Thinker
-* Entrepreneurial
-
-#### Tools & Applications
-* MS Office, Access & Projects
-* Sharepoint Design & Development
-* Python & HTML Scripting
-* Adobe Design Suite
-
 <div class="graph-cont"></div>
-<h2>Tools & Applications</h2>
-<div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Python & HTML Scripting</div>
-<div class="bar bar95">Adobe Design Suite</div>
+#### Technical Skills
+<div class="bar bar60">Data Analytics & Algorithms</div>
+<div class="bar bar80">Operations & Systems Analysis</div>
+<div class="bar bar95">LEAN Methods</div>
+<div class="bar bar60">Project Management (PRINCE2 & Airbus Bronze)</div>
+<div class="bar bar80">Design To Cost & Value Engineering</div>
+<div class="bar bar95">Financial Analysis & Forecasting</div>
+#### Business Skills
+<div class="bar bar60">Strong Digital Literacy</div>
+<div class="bar bar80">Strategical</div>
+<div class="bar bar95">Analytical / Critical Thinker</div>
+<div class="bar bar95">Entrepreneurial</div>
 #### Tools & Applications
 <div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Python & HTML Scripting</div>
-<div class="bar bar95">Adobe Design Suite</div>
-
-#### Tools & Applications
-<div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Python & HTML Scripting</div>
-<div class="bar bar95">Adobe Design Suite</div>
-
-#### Tools & Applications
-<div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Python & HTML Scripting</div>
+<div class="bar bar80">Sharepoint Design & Development</div>
+<div class="bar bar95">Python & HTML Scripting</div>
 <div class="bar bar95">Adobe Design Suite</div>
 
 <a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
