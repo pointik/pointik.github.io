@@ -35,8 +35,23 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 * Adobe Design Suite
 
 <div class="graph-cont"></div>
+<h2>Tools & Applications</h2>
 <div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Python HTML Scripting</div>
+<div class="bar bar80">Python & HTML Scripting</div>
+<div class="bar bar95">Adobe Design Suite</div>
+#### Tools & Applications
+<div class="bar bar60">MS Office, Access & Projects</div>
+<div class="bar bar80">Python & HTML Scripting</div>
+<div class="bar bar95">Adobe Design Suite</div>
+
+#### Tools & Applications
+<div class="bar bar60">MS Office, Access & Projects</div>
+<div class="bar bar80">Python & HTML Scripting</div>
+<div class="bar bar95">Adobe Design Suite</div>
+
+#### Tools & Applications
+<div class="bar bar60">MS Office, Access & Projects</div>
+<div class="bar bar80">Python & HTML Scripting</div>
 <div class="bar bar95">Adobe Design Suite</div>
 
 <a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
