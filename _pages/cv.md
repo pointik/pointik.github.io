@@ -14,23 +14,24 @@ I genuinely believe that via truly understanding the impacts and drivers at the 
 
 I’ve also completed an online MBA developed entirely out of MOOCs from some of the worlds top business programmes. You can find my curriculum & transcript [here](/mba.html)
 
-<div class="graph-cont"></div>
 #### Technical Skills
-<div class="bar bar60">Data Analytics & Algorithms</div>
-<div class="bar bar80">Operations & Systems Analysis</div>
-<div class="bar bar95">LEAN Methods</div>
-<div class="bar bar60">Project Management (PRINCE2 & Airbus Bronze)</div>
-<div class="bar bar80">Design To Cost & Value Engineering</div>
-<div class="bar bar95">Financial Analysis & Forecasting</div>
+* Data Analytics & Algorithms
+* Operations & Systems Analysis
+* LEAN Methods
+* Project Management (PRINCE2 & Airbus Bronze)
+* Design To Cost & Value Engineering
+* Financial Analysis & Forecasting
+
 #### Business Skills
-<div class="bar bar60">Strong Digital Literacy</div>
-<div class="bar bar80">Strategical</div>
-<div class="bar bar95">Analytical / Critical Thinker</div>
-<div class="bar bar95">Entrepreneurial</div>
+* Strong Digital Literacy
+* Strategical
+* Analytical / Critical Thinker
+* Entrepreneurial
+
 #### Tools & Applications
-<div class="bar bar60">MS Office, Access & Projects</div>
-<div class="bar bar80">Sharepoint Design & Development</div>
-<div class="bar bar95">Python & HTML Scripting</div>
-<div class="bar bar95">Adobe Design Suite</div>
+* MS Office, Access & Projects <i class="fa fa-fw fa-clock"></i></small><i class="fa fa-fw fa-clock"></i></small><i class="fa fa-fw fa-clock"></i></small>
+* Sharepoint Design & Development
+* Python & HTML Scripting
+* Adobe Design Suite
 
 <a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
