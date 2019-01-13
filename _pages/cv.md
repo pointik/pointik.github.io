@@ -22,16 +22,10 @@ I’ve also completed an online MBA developed entirely out of MOOCs from some of
 * Design To Cost & Value Engineering
 * Financial Analysis & Forecasting
 
-#### Business Skills
-* Strong Digital Literacy
-* Strategical
-* Analytical / Critical Thinker
-* Entrepreneurial
-
 #### Tools & Applications
-* MS Office, Access & Projects <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-* Sharepoint Design & Development <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
-* Python & HTML Scripting <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star" style="color:gainsboro"></i>
-* Adobe Design Suite <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star" style="color:gainsboro"></i>
+* MS Office, Access & Projects
+* Sharepoint Design & Development
+* Python & HTML Scripting
+* Adobe Design Suite
 
 <a href="/files/Clint Bird - CV.pdf" class="button button--medium">Download CV</a>
