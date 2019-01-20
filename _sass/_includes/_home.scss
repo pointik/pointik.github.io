@@ -1,222 +1,64 @@
-// Home styles
-// -------------------------------------
+// - - - - - - - - - - - - - - - - - -
 
-// intro
-.intro-copy {
-  &.intro-copy-container {
-    @media (min-width: 1030px) {
-      width: calc(100% - 512px)
-    }
-    @media (min-width: $mobile) and (max-width: 1030px) {
-      width: 460px;
-    }
-    @media (max-width: 960px) {
-      margin-top: 2rem;
-    }
-    @media (max-width: 900px) {
-      margin-top: 0;
-    }
-  }
+// Home
 
-  .headline {
-    font-size: 52px;
-    line-height: 1.1;
+// - - - - - - - - - - - - - - - - - -
 
-    @media (max-width: 920px) {
-      margin-top: 3rem;
-      font-size: 46px;
-    }
-    @media (max-width: 890px) {
-      margin-top: 2rem;
-    }
-    @media (max-width: 745px) {
-      font-size: 36px;
-    }
-    @media (max-width: $mobile) {
-      padding-top: 0;
-      margin-top: 1rem;
-    }
-  }
+.expanded {
+  padding: 72pt 0; 
 }
 
-.description {
-  &.primary {
-    max-width: 320px;
-    @media (max-width: $mobile) {
-      max-width: none;
-    }
-  }
+.expanded__inner {
+  -js-display: flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column; }
+  @media (min-width: 992px) {
+    .expanded__inner {
+      flex-direction: row; }
 }
 
-.intro-illustration {
-  &.intro-illustration-container {
-    @media (min-width: 1030px) {
-      min-width: 512px;
-    }
-    @media (min-width: $mobile) and (max-width: 1030px) {
-      min-width: auto;
-      width: calc(100% - 460px)
-    }
-  }
-
-  @media (max-width: $mobile) {
-    text-align: center;
-  }
+.expanded__media {
+  order: 1;
+  text-align: center; }
+  @media (min-width: 992px) {
+    .expanded__media {
+      width: 50%;
+      flex-shrink: 0;
+      order: unset; }
 }
 
-.intro-img-primary {
-  top: -30px;
-  @media (max-width: 920px) {
-    //top: 30px;
-  }
-  @media (max-width: 890px) {
-    //top: 50px;
-  }
-  @media (max-width: $mobile) {
-    display: none;
-  }
+.expanded__content {
+  order: 2; }
+  @media (min-width: 992px) {
+    .expanded__content {
+      padding: 0 16pt;
+      width: 50%;
+      flex-shrink: 0;
+      order: unset; } 
 }
 
-.intro-illustration-banner-sm {
-  @media (min-width: $mobile) {
-    display: none;
-  }
+.expanded:nth-child(even) .expanded__media {
+  order: 1; }
+  @media (min-width: 992px) {
+    .expanded:nth-child(even) .expanded__media {
+      order: 1; } 
 }
 
-// what I do section
-
-.wid-graphic {
-  @media (max-width: $mobile) {
-    margin-left: 0;
-  }
+.expanded__image {
+  width: 90%;
+  max-width: 220px;
+  padding: 16pt 0; }
+  @media (min-width: 992px) {
+    .expanded__image {
+      max-width: 280px; } 
 }
 
-.wid-content {
-  @media (min-width: $mobile) {
-    max-width: 342px;
-  }
-  @media (min-width: $mobile) and (max-width: 960px) {
-    float: right;
-  }
+.expanded__title {
+  max-width: 550px; 
 }
 
-// how I work section
-
-@media (min-width: $mobile) and (max-width: 1020px) {
-  .pdc-section {
-    .col-4 {
-      width: 317px;
-    }
-    .col-8 {
-      width: calc(100% - 317px);
-    }
-  }
-}
-
-.pdc-content {
-  @media (min-width: $mobile) {
-    max-width: 342px;
-  }
-  @media (min-width: $mobile) and (max-width: 960px) {
-    float: left;
-  }
-}
-
-.pdc-graphic {
-  @media (max-width: 1020px) {
-    margin-right: 0;
-  }
-  @media (max-width: $mobile) {
-    float: none;
-    margin-top: 2rem;
-  }
-}
-
-// quotes
-
-.quote-wrap.col {
-  float: right;
-
-  .quote {
-    max-width: 448px;
-  }
-}
-
-.quote-right {
-  margin-top: -6rem;
-
-  .quote { float: right; }
-
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
-
-.quote-left {
-  margin-top: 6rem;
-
-  .quote { float: left; }
-
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
-
-// personal projects
-
-.projects-illustration {
-  margin-bottom: -8rem;
-
-  @media (max-width: $mobile) {
-    margin-top: 4rem;
-    margin-bottom: -4rem;
-    text-align: center;
-  }
-}
-
-.card-project-wrap.col {
-  float: right;
-}
-
-.card-project {
-  h2 {
-    font-size: 22px;
-    line-height: 1.1;
-  }
-
-  .default-shadow {
-    box-shadow: 0 0px 12px rgba($navy,.30);
-  }
-
-  .icon {
-    vertical-align: middle;
-  }
-
-  .card-project-integer {
-    margin-left: 2px;
-  }
-}
-
-.card-project-right {
-  margin-top: 10rem;
-
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
-
-.card-project-left {
-  margin-top: -10rem;
-
-  @media (max-width: $mobile) {
-    margin-top: 3rem;
-  }
-}
-
-// media queries
-
-@media (max-width: $mobile) {
-  .intro-section {
-    margin-bottom: 0;
-  }
-}
+.expanded__text {
+  max-width: 60ch;
+} 
