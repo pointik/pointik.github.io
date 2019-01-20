@@ -62,3 +62,13 @@
 .expanded__text {
   max-width: 60ch;
 } 
+
+.landing__section {
+  padding: 24pt 0; 
+}
+
+.landing__section:nth-child(odd) {
+  background-color: #f7f7f7;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
